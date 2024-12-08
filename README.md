@@ -22,7 +22,8 @@ Rachel</a></h1>
 </details>
 <details align="left">
     <summary> <b> Utilities for Protein Structure Visualization </b> </summary>
-    <img src="https://img.icons8.com/?size=100&id=80462&format=png&color=000000" width=20> <a href="https://github.com/rachelse/Utils"> Repository: </a> A collection of functionalities for chimeraX visualization, particularly related to Foldseek outputs.
+    A collection of functionalities for chimeraX visualization, particularly related to Foldseek outputs.
+    ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rachelse&repo=Utils)
 </details>
 
 <h2 align="center" > <img src="https://img.icons8.com/?size=100&id=80254&format=png&color=000000" width="30" height="30" style="margin-right: 10px;">Connect with me <img src="https://img.icons8.com/?size=100&id=80826&format=png&color=000000" width="30" style="margin-left: 10px;"> </h2>
