@@ -30,16 +30,16 @@ Rachel</a></h1>
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
-			<img src="https://img.icons8.com/?size=100&id=80451&format=png&color=000000" width=50px></a>
+			<img src="https://img.icons8.com/?size=100&id=80451&format=png&color=000000" width=30></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/rachelse">
-		    <img src="https://img.icons8.com/?size=100&id=80462&format=png&color=000000" width=50px></a>
+		    <img src="https://img.icons8.com/?size=100&id=80462&format=png&color=000000" width=30></a>
         <a style="margin-left: 10px;" target="_blank" href="https://rachelse.github.io/">
-		    <img src="https://img.icons8.com/?size=100&id=ipBLdOAQ6sRn&format=png&color=000000" width=50px></a>
+		    <img src="https://img.icons8.com/?size=100&id=ipBLdOAQ6sRn&format=png&color=000000" width=30></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/eunbelivable">
-			<img src="https://img.icons8.com/?size=100&id=R2tXmQrmni1l&format=png&color=000000" width=50px></a>
+			<img src="https://img.icons8.com/?size=100&id=R2tXmQrmni1l&format=png&color=000000" width=30></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://bsky.app/profile/eunbelivable.bsky.social">
-			<img src="https://img.icons8.com/?size=100&id=uLD6_-80VS7K&format=png&color=000000" width=50px ></a>
+			<img src="https://img.icons8.com/?size=100&id=uLD6_-80VS7K&format=png&color=000000" width=30 ></a>
 		<a style="margin-left: 5px;" target="_blank" href="./assets/Rachel-Seongeun-Kim-CV.pdf">
-            <img src="https://img.icons8.com/?size=100&id=igQGPLZQ4FuR&format=png&color=000000" width=50px></a>
+            <img src="https://img.icons8.com/?size=100&id=igQGPLZQ4FuR&format=png&color=000000" width=30></a>
     </div>
 </p>
