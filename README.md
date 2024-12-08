@@ -5,7 +5,7 @@ Rachel</a></h1>
 
 <h2 alignm="left"> <img src="https://img.icons8.com/?size=100&id=ZmWFAq0mS7su&format=png&color=000000" width=30> About me </h2>
 
-- 💻 I’m PhD student in <a href="https://steineggerlab.com/en/" target="blank">Steinegger</a>, Seoul National University, South Korea.
+- 💻 I’m PhD student in <a href="https://steineggerlab.com/en/" target="blank">Steinegger Lab</a>, Seoul National University, South Korea.
 
 - 🧬 I am bioinformatician, who develops efficient software for biology and explores biological systems through protein structures.
 
