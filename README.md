@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://rachelse.github.io/" target="blank">
 Rachel</a></h1>
-<h4 align="center">Rachel Seongeun Kim 🇰🇷, Somewhere between biology and computer</h4>
-<Br>
 
-<h2 alignm="left"> <img src="https://img.icons8.com/?size=100&id=ZmWFAq0mS7su&format=png&color=000000" width=30> About me </h2>
+<h2 alignm="left"> <img src="https://img.icons8.com/?size=100&id=ZmWFAq0mS7su&format=png&color=000000" width=30> About Rachel Seongeun Kim </h2>
 
 - 💻 I’m PhD student in <a href="https://steineggerlab.com/en/" target="blank">Steinegger Lab</a>, Seoul National University, South Korea.
 
@@ -12,7 +10,6 @@ Rachel</a></h1>
 - 📄 Know about my experiences <a href="./assets/Rachel-Seongeun-Kim-CV.pdf" target="blank">CV</a>
 
 - 💗 I love to travel✈️ and play fencing🤺.
-<Br>
 
 <h2 align="left"> <img src="https://img.icons8.com/?size=100&id=a0K5Ldf8dgeT&format=png&color=000000" width=30> Projects </h2>
 
@@ -27,7 +24,6 @@ Rachel</a></h1>
     <summary> <b> Utilities for Protein Structure Visualization </b> </summary>
     <img src="https://img.icons8.com/?size=100&id=80462&format=png&color=000000" width=20> <a href="https://github.com/rachelse/Utils"> Repository: </a> A collection of functionalities for chimeraX visualization, particularly related to Foldseek outputs.
 </details>
-<Br>
 
 <h2 align="center" > <img src="https://img.icons8.com/?size=100&id=80254&format=png&color=000000" width="30" height="30" style="margin-right: 10px;">Connect with me <img src="https://img.icons8.com/?size=100&id=80826&format=png&color=000000" width="30" style="margin-left: 10px;"> </h2>
 
