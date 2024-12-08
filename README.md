@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://rachelse.github.io/" target="blank">
 Rachel</a></h1>
-<h5 align="center">Rachel Seongeun Kim 🇰🇷</h5>
+<h3 align="center">Rachel Seongeun Kim 🇰🇷, Somewhere between biology and computer</h3>
 <Br>
 
 <h3 alignm="left"> <img src="https://img.icons8.com/?size=100&id=ZmWFAq0mS7su&format=png&color=000000" width=30> About me </h3>
@@ -22,10 +22,11 @@ Rachel</a></h1>
     <img src="https://img.icons8.com/?size=100&id=KSDaOFfEpIEF&format=png&color=000000" width=20> <a href="https://doi.org/10.1093/nar/gkae1119" target="blank">Publication</a> <br>
     <img src="https://img.icons8.com/?size=100&id=PhymLYNNjf3I&format=png&color=000000" width=20> <a href="https://bfvd.steineggerlab.workers.dev/" target="blank">Download</a> <br>
     <img src="https://img.icons8.com/?size=100&id=7y0hBJ3Hqpnu&format=png&color=000000" width=20> <a href="https://bfvd.foldseek.com/" target="blank">Web server</a> <br>
-
 </details>
-
-
+<details align="left">
+    <summary> <b> Utilities for Protein Structure Visualization </b> </summary>
+    <img src="https://img.icons8.com/?size=100&id=80462&format=png&color=000000" width=20> <a href="https://github.com/rachelse/Utils"> Repository: </a> A collection of functionalities for chimeraX visualization, particularly related to Foldseek outputs.
+</details>
 <Br>
 
 <h3 align="center" > <img src="https://img.icons8.com/?size=100&id=80254&format=png&color=000000" width="30" height="30" style="margin-right: 10px;">Connect with me <img src="https://img.icons8.com/?size=100&id=80826&format=png&color=000000" width="30" style="margin-left: 10px;"> </h3>
