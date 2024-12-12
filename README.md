@@ -19,7 +19,7 @@ Rachel</a></h1>
     <img src="https://img.icons8.com/?size=100&id=KSDaOFfEpIEF&format=png&color=000000" width=20> <a style="margin-right:10px" href="https://doi.org/10.1093/nar/gkae1119" target="blank">Publication</a> 
     <img src="https://img.icons8.com/?size=100&id=PhymLYNNjf3I&format=png&color=000000" width=20> <a style="margin-right: 10px" href="https://bfvd.steineggerlab.workers.dev/" target="blank">Download</a>
     <img src="https://img.icons8.com/?size=100&id=7y0hBJ3Hqpnu&format=png&color=000000" width=20> <a href="https://bfvd.foldseek.com/" target="blank">Web server</a> <br>
-    <a href="https://github.com/rachelse/Utils" target="blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=steineggerlab&repo=bfvd-analysis&theme=transparent&show_owner=true"> </a>
+    <a href="https://github.com/steineggerlab/bfvd-analysis" target="blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=steineggerlab&repo=bfvd-analysis&theme=transparent&show_owner=true"> </a>
 </details>
 <details align="left">
     <summary> <b> Utilities for Protein Structure Visualization </b> </summary>
