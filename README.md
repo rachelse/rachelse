@@ -8,7 +8,7 @@ Rachel</a></h1>
 - 🧬 I am bioinformatician, who develops efficient software for biology and explores biological systems through protein structures.
 
 - 📄 Know about my experiences <a href="./assets/Rachel-Seongeun-Kim-CV.pdf" target="blank">CV</a>
-
+x
 - 💗 I love to travel✈️ and play fencing🤺.
 
 <h2 align="left"> <img src="https://img.icons8.com/?size=100&id=a0K5Ldf8dgeT&format=png&color=000000" width=30> Projects </h2>
@@ -41,7 +41,7 @@ Rachel</a></h1>
 			<img src="https://img.icons8.com/?size=100&id=R2tXmQrmni1l&format=png&color=000000" width=30></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://bsky.app/profile/eunbelivable.bsky.social">
 			<img src="https://img.icons8.com/?size=100&id=uLD6_-80VS7K&format=png&color=000000" width=30 ></a>
-		<a style="margin-left: 5px;" target="_blank" href="./assets/Rachel-Seongeun-Kim-CV.pdf">
+		<a style="margin-left: 5px;" target="_blank" href="https://docs.google.com/document/d/1CpoSMOBCU-IZTiIB789Wk8QX1TnEzVPeLq_92hGl8S8/edit?usp=sharing">
             <img src="https://img.icons8.com/?size=100&id=igQGPLZQ4FuR&format=png&color=000000" width=30></a>
     </div>
 </p>
