@@ -7,8 +7,7 @@ Rachel</a></h1>
 
 - 🧬 I am bioinformatician, who develops efficient software for biology and explores biological systems through protein structures.
 
-- 📄 Know about my experiences <a href="./assets/Rachel-Seongeun-Kim-CV.pdf" target="blank">CV</a>
-x
+- 📄 Know about my experiences <a href="https://docs.google.com/document/d/1CpoSMOBCU-IZTiIB789Wk8QX1TnEzVPeLq_92hGl8S8/edit?usp=sharing" target="blank">CV</a>
 - 💗 I love to travel✈️ and play fencing🤺.
 
 <h2 align="left"> <img src="https://img.icons8.com/?size=100&id=a0K5Ldf8dgeT&format=png&color=000000" width=30> Projects </h2>
